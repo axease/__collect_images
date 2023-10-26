@@ -1,0 +1,1 @@
+# __collect_images
